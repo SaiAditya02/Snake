@@ -1,4 +1,4 @@
-Snake.python
+
 Snake Game in Python
 
 This is a classic implementation of the Snake game, created using Python. In this game, the player controls a snake that moves around the screen, eating food items to grow longer. The goal is to accumulate as much length as possible without colliding with the walls or the snake's own body.
