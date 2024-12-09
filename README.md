@@ -19,6 +19,7 @@ This game offers a fun and engaging way to practice basic programming concepts s
 
 This description explains the general concept of the game, highlights the features, and mentions the library used to build it, making it suitable for documentation or a README file. You can adjust the description based on specific features you have implemented in your version.
 
+https://github.com/SaiAditya02/Snake/blob/main/Screenshot.png
 
 
 
